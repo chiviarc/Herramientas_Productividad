@@ -9,6 +9,7 @@ Se continúa con los archivos que se quieran subir.
 
 Paso 3, se elige subir un archivo y aparece como un https 
 paso 4 se da commit
+
 #Comandos
 
 ls: Lista los archivos y directorios.
