@@ -14,4 +14,5 @@ paso 4 se da commit
 
 #Comandos
 
-<img width="324" alt="Captura de Pantalla 2025-06-12 a la(s) 20 26 39" src="https://github.com/user-attachments/assets/3a413476-3759-437c-a5ab-6f8308bf48ce" />
+<img width="571" alt="Captura de Pantalla 2025-06-12 a la(s) 20 48 48" src="https://github.com/user-attachments/assets/df7fe4f7-e50b-4dc6-8a31-7b82c645003b" />
+
