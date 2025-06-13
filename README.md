@@ -10,5 +10,8 @@ Se continúa con los archivos que se quieran subir.
 Paso 3, se elige subir un archivo y aparece como un https 
 paso 4 se da commit
 
+
+
 #Comandos
+
 <img width="324" alt="Captura de Pantalla 2025-06-12 a la(s) 20 26 39" src="https://github.com/user-attachments/assets/3a413476-3759-437c-a5ab-6f8308bf48ce" />
